@@ -30,9 +30,8 @@ The dataset contains transactional records including:
 - Which geographic locations generate the highest sales?
 - How does sales performance vary across regions and time?
 
-## Process:
-
-- The following steps were followed to complete this project:
+## Process: 
+The following steps were followed to complete this project:
 
 1. Data Collection
 
@@ -87,6 +86,11 @@ Analyzed trends and identified key business drivers including:
 - High-revenue product categories
 - Seasonal sales trends
 - Customer segment contribution
+
+- Dashboard
+<img width="1316" height="735" alt="1" src="https://github.com/user-attachments/assets/6e8bb61d-aa75-4188-b5c9-64ff42960e55" />
+<img width="1311" height="737" alt="2" src="https://github.com/user-attachments/assets/5353094a-c651-4c7e-ab95-aa305cf9ffaa" />
+
 
 
 
