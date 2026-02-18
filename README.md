@@ -30,5 +30,64 @@ The dataset contains transactional records including:
 - Which geographic locations generate the highest sales?
 - How does sales performance vary across regions and time?
 
-Dashboard Interaction: 
+## Process:
+
+- The following steps were followed to complete this project:
+
+1. Data Collection
+
+- Imported Superstore dataset from CSV file into Power BI
+
+2. Data Cleaning and Preparation
+
+- Checked for missing and inconsistent values
+- Verified and corrected data types (Sales, Profit, Date fields)
+- Prepared dataset for analysis and visualization
+
+3. Data Modeling
+
+- Structured dataset using proper relationships
+- Applied data modeling techniques for accurate aggregation
+- Created calculated columns and measures using DAX
+
+4. KPI Development using DAX
+
+Created measures such as:
+
+- Total Sales
+- Total Profit
+- Total Quantity Sold
+- Total Orders
+
+Example DAX measures:
+
+Total Sales = SUM(Superstore[Sales])
+
+Total Profit = SUM(Superstore[Profit])
+
+Total Quantity = SUM(Superstore[Quantity])
+
+Order Count = COUNT(Superstore[Order ID])
+
+5. Dashboard Development
+
+Built interactive visualizations including:
+
+- KPI Cards for Sales, Profit, Quantity
+- Line charts for monthly sales and profit trends
+- Bar charts for category and regional analysis
+- Map visualization for geographic performance
+- Interactive slicers for Region, Category, and Segment
+
+6. Insight Generation
+
+Analyzed trends and identified key business drivers including:
+
+- Top-performing regions
+- High-revenue product categories
+- Seasonal sales trends
+- Customer segment contribution
+
+
+
 
