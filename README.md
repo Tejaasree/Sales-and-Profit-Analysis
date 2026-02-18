@@ -91,7 +91,20 @@ Analyzed trends and identified key business drivers including:
 <img width="1316" height="735" alt="1" src="https://github.com/user-attachments/assets/6e8bb61d-aa75-4188-b5c9-64ff42960e55" />
 <img width="1311" height="737" alt="2" src="https://github.com/user-attachments/assets/5353094a-c651-4c7e-ab95-aa305cf9ffaa" />
 
+## Project Insights:
 
+- Total Sales: $1.60M
+- Total Profit: $175K
+- Total Quantity Sold: 22K units
+- West region generates highest revenue ($522K)
+- Office Supplies category contributes highest sales ($0.64M)
+- Phones is the top-performing sub-category
+- Sales and profit peak during Q4 (Nov–Dec)
+- Consumer segment contributes highest revenue share
+
+## Final Conclusion:
+
+- The Superstore Sales Dashboard successfully identifies key business performance drivers across regions, products, and customer segments. The analysis shows that the West region, Office Supplies category, and Consumer segment are the primary contributors to revenue and profitability. Seasonal trends indicate strong sales performance during Q4, highlighting opportunities for strategic planning.
 
 
 
